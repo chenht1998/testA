@@ -5,9 +5,9 @@ import (
 )
 
 func Init(){
-    log.Info("testA init")
+    log.Info("github testA init")
 }
 
 func Exec(){
-    log.Info("testA exec")
+    log.Info("github testA exec")
 }

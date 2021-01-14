@@ -1,4 +1,4 @@
-module testA
+module github.com/chenht1998/testA
 
 go 1.15
 
