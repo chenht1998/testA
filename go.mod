@@ -1,4 +1,4 @@
-module github.com/chenht1998/testA
+module bitbucket.org/htworkspace/testa
 
 go 1.15
 
