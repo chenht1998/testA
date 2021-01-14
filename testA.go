@@ -6,10 +6,10 @@ import (
 )
 
 func Init(){
-    log.Info("bitbucket testA init")
+    log.Info("github testA init")
 }
 
 func Exec(){
     myGoMod.Main()
-    log.Info("bitbucket testA exec")
+    log.Info("github testA exec")
 }
