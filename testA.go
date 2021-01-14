@@ -2,6 +2,7 @@ package testA
 
 import (
     log "github.com/sirupsen/logrus"
+    "github.com/jordan0210/releaseGoModTest"
 )
 
 func Init(){
@@ -9,5 +10,6 @@ func Init(){
 }
 
 func Exec(){
+    myGoMod.Main()
     log.Info("bitbucket testA exec")
 }
